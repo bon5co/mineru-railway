@@ -1,5 +1,9 @@
 # mineru-railway
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/mineru-v344-or-pdf-to-markdown-api-for-r?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
+**Deploy on Railway:** [MinerU template](https://railway.com/deploy/mineru-v344-or-pdf-to-markdown-api-for-r?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
 Wrapper image behind the Railway template **MinerU — Document Parsing API (CPU)**.
 
 Published as `ghcr.io/bon5co/mineru-railway:latest`.
